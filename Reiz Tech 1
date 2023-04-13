@@ -26,9 +26,9 @@ class Program
          //Change Input
     static void Main()
     {
-        Console.WriteLine(clockAngle(1, 45) + " degrees");
-        Console.WriteLine(clockAngle(3, 30) + " degrees");
-        Console.WriteLine(clockAngle(9, 15)+ " degrees");
+        Console.WriteLine(clockAngle(8, 30) + " degrees");
+        Console.WriteLine(clockAngle(12, 30) + " degrees");
+        Console.WriteLine(clockAngle(9, 30)+ " degrees");
 
     }
 }
