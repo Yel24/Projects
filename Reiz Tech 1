@@ -1,7 +1,7 @@
 
 using System;
 
-class Program
+class clock
 {
     public static double clockAngle(int hour, int minute)
     {
